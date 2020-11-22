@@ -1,4 +1,5 @@
-The dataset is in the master branch.
+The dataset is in the master branch. Due to space reasons, we only upload the sequence of the cat model. We will complete sequences of complete 4 models soon. For more questions, please contact the author.
+
 The synthetic dataset has 3 modes, including 1) Object moves freely with fixed cameras, 2) Object rotates only with fixed cameras, and 3) Cameras move freely. For the detailed description, please refer to the manuscript and supplementary material.
 
 Binocular tracking, triple-view, and multi-view tracking are combined with different cameras. For example, C-0/C-1 represents the use of camera 0 and camera 1 in the corresponding mode. Besides, we have 4 models in each mode, i.e., Cat, Clown, Driller, and Squirrel. 
